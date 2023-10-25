@@ -1,0 +1,12 @@
+Patient ID
+Age	
+Sex	
+Cholesterol	
+Blood Pressure
+Diet
+Heart Rate
+Income
+BMI
+Sleep Hours Per Day
+Country
+Heart Attack Risk
